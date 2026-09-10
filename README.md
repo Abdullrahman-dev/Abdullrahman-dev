@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/3e2a3aa0-5ce6-4294-a3c1-4eb92a36d859]" width="150" height="150" style="border-radius:50%;" alt="Abdulrahman Profile Picture">
-
+<img src="https://github.com/user-attachments/assets/3e2a3aa0-5ce6-4294-a3c1-4eb92a36d859" width="150" height="150" style="border-radius:50%;" alt="Abdulrahman Profile Picture">
   
   <h1>Hi there, I'm Abdulrahman Turki Al-Harbi 👋</h1>
   <h3>Software Engineer | Full-Stack Developer</h3>
@@ -20,14 +19,14 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working on **API Development** at **Bupa Arabia**.
-- 🌱 Continuously expanding expertise in **React, Next.js, and Spring Boot**.
-- 🛠️ Passionate about delivering reliable, efficient, and user-focused software solutions.
-- 🎓 Holds a Bachelor’s Degree in Computer Science from **Umm Al-Qura University** (Second Class Honors).
+-  Currently working on **API Development** at **Bupa Arabia**.
+-  Continuously expanding expertise in **React, Next.js, and Spring Boot**.
+-  Passionate about delivering reliable, efficient, and user-focused software solutions.
+-  Holds a Bachelor’s Degree in Computer Science from **Umm Al-Qura University** (Second Class Honors).
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 **Backend & Frameworks**
 <p>
@@ -58,7 +57,7 @@
 
 ---
 
-### 📂 Highlighted Projects
+###  Highlighted Projects
 
 *   **Meengaddha:** Modified existing database structures, optimized RESTful APIs, and collaborated on deployment for an interactive multiplayer trivia game.
 *   **TechWin Academy:** Designed and implemented a complex relational LMS database architecture using Laravel and AWS.
@@ -66,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullrahman-dev&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
