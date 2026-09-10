@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/3e2a3aa0-5ce6-4294-a3c1-4eb92a36d859]" width="150" height="150" style="border-radius: 50%;" alt="Abdulrahman Profile Picture">
+  <img src="[https://github.com/user-attachments/assets/3e2a3aa0-5ce6-4294-a3c1-4eb92a36d859]" width="150" height="150" style="border-radius:50%;" alt="Abdulrahman Profile Picture">
 
   
   <h1>Hi there, I'm Abdulrahman Turki Al-Harbi 👋</h1>
